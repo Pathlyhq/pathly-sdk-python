@@ -63,6 +63,7 @@ class ScenarioInput:
     cron: Optional[str] = None
     enabled: Optional[bool] = None
     scenario: Optional[Mapping[str, Any]] = None
+    httpChain: Optional[Sequence[Mapping[str, Any]]] = None
 
     def to_dict(self) -> dict[str, Any]:
         payload = asdict(self)
