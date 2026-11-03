@@ -64,7 +64,7 @@ Couverture exigée : **100 %**.
 
 | Package | Role |
 |---|---|
-| [pathly-terraform-provider](https://github.com/pathlyhq/pathly-terraform-provider) | Terraform / OpenTofu |
+| [terraform-provider-pathly](https://github.com/Pathlyhq/terraform-provider-pathly) | Terraform / OpenTofu |
 | [pathly-ansible](https://github.com/pathlyhq/pathly-ansible) | Ansible Galaxy pathlyhq.pathly |
 | [pathly-sdk-typescript](https://github.com/pathlyhq/pathly-sdk-typescript) | @pathlyhq/sdk |
 | [pathly-sdk-go](https://github.com/pathlyhq/pathly-sdk-go) | Go SDK |

@@ -98,7 +98,7 @@ Se exige cobertura al **100%** (`--cov-fail-under=100`).
 
 | Paquete | Rol |
 |---|---|
-| [pathly-terraform-provider](https://github.com/pathlyhq/pathly-terraform-provider) | Terraform / OpenTofu |
+| [terraform-provider-pathly](https://github.com/Pathlyhq/terraform-provider-pathly) | Terraform / OpenTofu |
 | [pathly-ansible](https://github.com/pathlyhq/pathly-ansible) | Ansible Galaxy `pathlyhq.pathly` |
 | [pathly-sdk-typescript](https://github.com/pathlyhq/pathly-sdk-typescript) | `@pathlyhq/sdk` |
 | [pathly-pulumi](https://github.com/pathlyhq/pathly-pulumi) | Pulumi |

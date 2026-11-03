@@ -1,4 +1,4 @@
-# Same checks as .gitlab-ci.yml (pytest).
+# CI checks (pytest).
 name: CI
 
 on:
