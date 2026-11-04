@@ -48,7 +48,7 @@ jobs:
           path: dist/
 
   # PyPI Trusted Publishing (OIDC): no PYPI_TOKEN secret. On pypi.org, add
-  # Pathly-Monitoring/pathly-sdk-python, workflow release-please.yml,
+  # Pathlyhq/pathly-sdk-python, workflow release-please.yml,
   # environment pypi as trusted publisher of the "pathly" project.
   publish-pypi:
     needs: build-pypi
